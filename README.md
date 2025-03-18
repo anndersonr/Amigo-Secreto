@@ -12,9 +12,13 @@ Nesse projeto você encontrará:
 4. Operadores;
 5. Condicionais;
 
-Para acessar o proketo acesse os links:
-via browser amigo-secreto-kurx7ntyb-anderson-rodrigues-projects-20260454.vercel.app
-Github
+Para acessar o projeto acesse os links:
+
+**Funcional:** https://amigo-secreto-kurx7ntyb-anderson-rodrigues-projects-20260454.vercel.app
+
+**Código aberto** https://github.com/anndersonr/Amigo-Secreto
+
+
 
 ## Linguagens Ultilizadas
 <div>
@@ -22,6 +26,3 @@ Github
   <img height="50" alt="logo do CSS"src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg>
   <img height="50" alt="logo do java script" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg>
 </div>
-
-
-
